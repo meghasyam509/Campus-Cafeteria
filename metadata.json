@@ -1,0 +1,6 @@
+{
+  "name": "Campus Cafeteria Queue Display",
+  "description": "Smart order queue management system for college cafeterias featuring live status tracking, waiting time estimates, and staff order controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
